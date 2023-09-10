@@ -1,0 +1,9 @@
+Django~=4.2.4
+djangorestframework~=3.14.0
+Pillow~=10.0.0
+drf_yasg~=1.21.7
+psycopg2
+gunicorn
+django-cors-headers
+PyJWT
+google
